@@ -1,5 +1,5 @@
 # tts-experimental
-text to speech with conative service and integrate with AI (Chat GPT)
+text to speech with cogintive service and integrate with AI (Chat GPT)
 
 ```bash
 curl --location --request POST "https://southeastasia.tts.speech.microsoft.com/cognitiveservices/v1" \
